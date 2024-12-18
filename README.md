@@ -1,7 +1,3 @@
-# AttendEase
-A mobile application that records classroom attendance using camera scanning.
-# AttendEase Development Plan
-
 ## Group Name
 - **Group Name:** Midgardians
 
