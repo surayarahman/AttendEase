@@ -21,7 +21,7 @@ A mobile application that records classroom attendance using camera scanning.
 ### 2. Background of the Problem
 - Tracking student attendance in educational institutions has traditionally been a manual process, often leading to inaccuracies, especially in large classrooms. Instructors struggle to maintain accurate records, and methods like attendance sheets are prone to errors, misplacements, and fraud. These practices waste valuable class time and are vulnerable to human error.
 
-As technology increasingly integrates into education, traditional attendance tracking methods have become inefficient and outdated. The need for faster, more accurate, and reliable attendance monitoring is critical as educational institutions evolve. Moreover, in unforeseen circumstances like the COVID-19 pandemic, where social distancing and hybrid learning are necessary, a technological solution for tracking attendance is not just beneficial but essential.
+- As technology increasingly integrates into education, traditional attendance tracking methods have become inefficient and outdated. The need for faster, more accurate, and reliable attendance monitoring is critical as educational institutions evolve. Moreover, in unforeseen circumstances like the COVID-19 pandemic, where social distancing and hybrid learning are necessary, a technological solution for tracking attendance is not just beneficial but essential.
 
 ### 3. Purpose or Objective
 The purpose of AttendEase is to automate student attendance through advanced facial recognition technology. By utilizing mobile device cameras and cutting-edge machine learning, the application accurately identifies students and marks their attendance in real time, eliminating the need for physical intervention.
