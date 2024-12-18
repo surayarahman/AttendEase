@@ -39,8 +39,10 @@ The target users for AttendEase is both students and instructors in academic ins
 
 **i. Teachers/Professors/Instructors:**
 They can use the app for automated attendance marking during lectures, ensuring accurate and secure data without manual checks.
+
 **ii. Students:** 
 They will benefit from the automated process, receiving instant feedback on their attendance status and reducing the risk of unjustified absences.
+
 **iii. Administrators:** 
 Educational institutions can track overall attendance data and trends to provide reports or assessments regarding student participation, leading to better decision-making.
 The app’s primary focus will be on higher education classrooms with a considerable number of students, where face recognition technology will significantly reduce the administrative worload.
