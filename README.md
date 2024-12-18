@@ -3,7 +3,7 @@ Midgardians
 
 ## Group Member Details
 - **Name:** SURAYA RAHMAN ERIN **Matric No:** 2114128
-- **Name:**  **Matric No:** 
+- **Name:** MUHAMMAD ZUBAIR IMRAN BIN MD ASRI **Matric No:** 2126487
 - **Name:**  **Matric No:** 
 
 ## Tasks Assigned to Group Members
