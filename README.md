@@ -7,8 +7,8 @@ Midgardians
 - **Name:**  **Matric No:** 
 
 ## Tasks Assigned to Group Members
-- **Suraya Rahman Erin:** Responsible for writing the project initiation (App proposal, purposes or objectives, features, target user, platform and background) and setting up the repository.
-- **:** Responsible for
+- **SURAYA RAHMAN ERIN:** Responsible for writing the project initiation (App proposal, purposes or objectives, features, target user, platform and background) and setting up the repository.
+- **MUHAMMAD ZUBAIR IMRAN BIN MD ASRI:** Responsible for
 - **:** Responsible for
 
 # AttendEase Development Plan
@@ -71,7 +71,7 @@ If a student is marked absent or late, they will receive a notification to keep 
 **Security Features:**
 A password-protected system for instructor login to ensure that only authorized users have access to sensitive data.
 
-## Understanding the Need for AttendEase
+## Understanding the need for AttendEase
 Why this mobile app is necessary:
 
 **Efficiency:** Automating attendance with a user-friendly app saves valuable teaching time, allowing instructors to concentrate on educating while providing students with real-time attendance feedback.
