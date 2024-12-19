@@ -4,12 +4,12 @@ Midgardians
 ## Group Member Details
 - **Name:** SURAYA RAHMAN ERIN **Matric No:** 2114128
 - **Name:** MUHAMMAD ZUBAIR IMRAN BIN MD ASRI **Matric No:** 2126487
-- **Name:**  **Matric No:** 
+- **Name:** MUHAMMAD FAYYADH KHUMAINI BIN KHAMSANI **Matric No:** 2112233
 
 ## Tasks Assigned to Group Members
 - **SURAYA RAHMAN ERIN:** Responsible for writing the project initiation (App proposal, purposes or objectives, features, target user, platform and background) and setting up the repository.
-- **MUHAMMAD ZUBAIR IMRAN BIN MD ASRI:** Responsible for
-- **:** Responsible for
+- **MUHAMMAD ZUBAIR IMRAN BIN MD ASRI:** Responsible for providing a sequence diagram, and screen navigation flow as your logical design.
+- **MUHAMMAD FAYYADH KHUMAINI BIN KHAMSANI:** Responsible for evaluate technical feasibility and back-end assessments such as data storage for CRUD operations, packages, and plugins. Ensure compatibility of the app with the chosen platform (smartphones and wearables).
 
 # AttendEase Development Plan
 
