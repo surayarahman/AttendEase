@@ -87,4 +87,11 @@ Recent studies have revealed that the traditional method of taking attendance in
 **Development potential:**
 As the demand for innovative technology in education grows, AttendEase emerges as a fitting solution that aligns with the trend of digitizing classrooms and modernizing educational practices. By streamlining the attendance process, AttendEase saves time and fosters a more organized and efficient learning environment.
 
+## Diagrams
+**Sequence Diagram**
 
+![Sequence diagram (3)](https://github.com/user-attachments/assets/a19a1e9a-e5a8-4e1c-93e4-926c5638e5e5)
+
+**Screen Navigation Flow**
+
+![Blank diagram (5)](https://github.com/user-attachments/assets/55bd1d5f-6868-44d6-aae0-067aefde52f9)
