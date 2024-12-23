@@ -19,9 +19,9 @@ Midgardians
 A mobile application that records classroom attendance using camera scanning.
 
 ### 2. Background of the Problem
-   Traditionally, attendance tracking has been in the realm of manual operation in educational institutions. Accurate attendance is difficult to keep for instructors, and attendance sheets are very liable to errors, misplacement, and fraud. Many of these methods squander precious class time and often fall victim to human error.
+Traditionally, attendance tracking has been in the form of manual operation in educational institutions. Accurate attendance is difficult to keep for instructors, and attendance sheets may have errors, misplacement, and fraud. Many of these methods waste class time and often fall victim to this error.
 
-   With technology increasingly being integrated into education, attendance-tracking methods have become inefficient and obsolete. In this educational evolution, there is an urge for quicker, more accurate, and reliable ways of monitoring attendance. Moreover, in unforeseen circumstances, such as COVID-19, where social distancing and hybrid learning have become norms, a technological solution in tracking attendance is not beneficial but highly essential.
+With technology increasingly being integrated into education, attendance-tracking methods have become inefficient and outdated. In this educational evolution, there is an urge for quicker, more accurate, and reliable ways of monitoring attendance. Moreover, in unforeseen circumstances, such as COVID-19, where social distancing and hybrid learning have become norms, a technological solution in tracking attendance is not beneficial but highly essential.
 
 ### 3. Purpose or Objective
 The objective of the AttendEase application is to automate the students' attendance using high-end face identification. Integrating a mobile device camera with the state-of-the-art machine learning technology, the app identifies the students with precision and marks their attendance in just the wink of an eye- with no human intervention.
