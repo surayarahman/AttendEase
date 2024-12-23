@@ -62,45 +62,39 @@ After scanning the classroom, attendance will be updated in real-time to a cloud
 **Classroom Management Dashboard:**
 Instructors will be able to manage their classes by viewing the list of enrolled students, attendance records, and trends over time.
 
-**Attendance Report Generation:**
-Instructors will have the option to generate attendance reports in formats like PDF or Excel for submission or records.
-
-**Notifications for Students:**
-If a student is marked absent or late, they will receive a notification to keep track of their attendance status.
-
 **Security Features:**
 A password-protected system for instructor login to ensure that only authorized users have access to sensitive data.
 
 ## Understanding the need for AttendEase
-Why this mobile app is necessary:
+Attendease mobile application is needed because:
 
-**Efficiency:** Automating attendance with a user-friendly app saves valuable teaching time, allowing instructors to concentrate on educating while providing students with real-time attendance feedback.
+**Provide efficiency:** Automate the attendance in an easy mobile app and save the most valuable time of instructors to teach the students, while simultaneously providing real-time records of their attendance to the students.
 
-**Accuracy:** Face recognition technology ensures precise attendance tracking, eliminating issues related to mistaken identity or human error.
+**Ensure accuracy:** Face recognition technology allows for the most accurate attendance tracking, avoiding mistakes due to mistaken identity or human error.
 
-**Convenience:** Instructors and students enjoy accessible, real-time attendance updates on their mobile devices, promoting transparency and accountability.
+**Platform convenience:** Real-time attendance updates are available on both instructors' and students' mobile devices, promoting transparency and accountability.
 
 ## How we arrived at the idea:
 **Research and observations**
-Recent studies have revealed that the traditional method of taking attendance in classrooms is often monotonous, time-consuming, and inefficient. This can waste valuable instructional time and negatively affect the educational experience for both teachers and students. To address this problem, we thoroughly investigated the use of mobile technology, focusing on innovations such as facial recognition systems and advanced camera features. Our research resulted in the development of AttendEase, a modern tech solution designed to improve time management and enhance the accuracy of attendance records. 
+Recent research has shown that the traditional way of conducting attendance in schools is very time-consuming and ineffective. This may result in wasting the precious time of a lesson and will ultimately affect the learning and teaching experience for both teachers and students. To resolve this issue, we deeply investigated the use of mobile technology, focusing on facial recognition systems and advanced camera features. The idea of AttendEase was born from our research efforts aimed at realizing the twin goals of time management improvement and accuracy increase of the attendance record.
 
 **Development potential:**
-As the demand for innovative technology in education grows, AttendEase emerges as a fitting solution that aligns with the trend of digitizing classrooms and modernizing educational practices. By streamlining the attendance process, AttendEase saves time and fosters a more organized and efficient learning environment.
+AttendEase fits into the trend of digitization of classrooms and modernizing education. By automating attendance, AttendEase saves a lot of time and also makes the class environment systematic and smooth.
 
 ## REQUIREMENT ANALYSIS
 **1.Technical Feasibility and Back-End Assessments**
     **a.Data Storage for CRUD Operations**
-        **Database Selection:** Use Cloud Storage for Firebase (Firebase Firestore).
+        **Database Selection:** Using Cloud Storage Firebase (Firebase Firestore).
     **b.CRUD Operations Design:**
-        **Create:** Add student records, attendance logs, and face recognition data.
-        **Read:** Fetch attendance logs, student details.
-        **Update:** Edit attendance records, and facial recognition details.
-        **Delete:** Remove records when necessary (e.g., old attendance logs or incorrect data).
-
+        **Create:** Insert students records, attendance logs and face recognition data.
+        **Read:** Retrieve attaendance logs, student details.
+        **Update:** Allow editing of attendance records and facial recognition details.
+        **Delete:** Delete records if necessary (e.g, old attendace or incorrect data).
+        
 **2. Ensure Compatibility with Platforms**
-     **a. Smartphones (Android & iOS):**
+   **a. Smartphones (Android & IOS).**
             -Use Flutter for cross-platform development.
-            -Ensure app performance in both Android and iOS versions.
+            -Ensure the app's performance in both Android and IOS versions
         
 ## DIAGRAMS
 **Sequence Diagram**
@@ -114,8 +108,7 @@ As the demand for innovative technology in education grows, AttendEase emerges a
 ## GANTT CHART
 ![AttendEase Gantt Chart-1](https://github.com/user-attachments/assets/d3b1cdea-28f3-4ceb-a47a-f6b6e0634c50)
 
-## REFERENCES
-
+##REFERENCES
 Kumara, P. M., Tahmasebi, M., & Sethu, D. (2021). Automatic attendance recording system using facial recognition. Malaysian Journal of Science, Advanced Technology, 1(2), 68–71. https://mjsat.com.my/index.php/mjsat/article/view/12
 
-Gaffar, A. (2024). The facial recognition technology in academic attendance. International Journal of Technology and Innovative Management, 1(1), 103–120. https://journals.gaftim.com/index.php/ijtim/article/view/363
+Gaffar, A. (2024). The facial recognition technology in academic attendance. International Journal of Technology and Innovative Management, 1(1), 103–120. https://journals.gaftim.com/index.php/ijtim/article/view/363 
