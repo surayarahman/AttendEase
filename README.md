@@ -110,3 +110,6 @@ As the demand for innovative technology in education grows, AttendEase emerges a
 **Screen Navigation Flow**
 
 ![Blank diagram (5)](https://github.com/user-attachments/assets/55bd1d5f-6868-44d6-aae0-067aefde52f9)
+
+## GANTT CHART
+![AttendEase Gantt Chart-1](https://github.com/user-attachments/assets/d3b1cdea-28f3-4ceb-a47a-f6b6e0634c50)
