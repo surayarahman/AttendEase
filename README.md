@@ -88,7 +88,20 @@ Recent studies have revealed that the traditional method of taking attendance in
 As the demand for innovative technology in education grows, AttendEase emerges as a fitting solution that aligns with the trend of digitizing classrooms and modernizing educational practices. By streamlining the attendance process, AttendEase saves time and fosters a more organized and efficient learning environment.
 
 ## Requirement Analysis
+**1.Technical Feasibility and Back-End Assessments**
+    **a.Data Storage for CRUD Operations**
+        **Database Selection:** Use Cloud Storage for Firebase (Firebase Firestore).
+    **b.CRUD Operations Design:**
+        **Create:** Add student records, attendance logs, and face recognition data.
+        **Read:** Fetch attendance logs, student details.
+        **Update:** Edit attendance records, and facial recognition details.
+        **Delete:** Remove records when necessary (e.g., old attendance logs or incorrect data).
 
+**2. Ensure Compatibility with Platforms**
+     **a. Smartphones (Android & iOS):**
+            -Use Flutter for cross-platform development.
+            -Ensure app performance in both Android and iOS versions.
+        
 ## Diagrams
 **Sequence Diagram**
 
