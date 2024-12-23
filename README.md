@@ -13,7 +13,7 @@ Midgardians
 
 # AttendEase Development Plan
 
-## Project Initiation
+## PROJECT INITIATION
 ### 1. Title
 - **AttendEase**
 A mobile application that records classroom attendance using camera scanning.
@@ -87,7 +87,7 @@ Recent studies have revealed that the traditional method of taking attendance in
 **Development potential:**
 As the demand for innovative technology in education grows, AttendEase emerges as a fitting solution that aligns with the trend of digitizing classrooms and modernizing educational practices. By streamlining the attendance process, AttendEase saves time and fosters a more organized and efficient learning environment.
 
-## Requirement Analysis
+## REQUIREMENT ANALYSIS
 **1.Technical Feasibility and Back-End Assessments**
     **a.Data Storage for CRUD Operations**
         **Database Selection:** Use Cloud Storage for Firebase (Firebase Firestore).
@@ -102,7 +102,7 @@ As the demand for innovative technology in education grows, AttendEase emerges a
             -Use Flutter for cross-platform development.
             -Ensure app performance in both Android and iOS versions.
         
-## Diagrams
+## DIAGRAMS
 **Sequence Diagram**
 
 ![Sequence diagram (3)](https://github.com/user-attachments/assets/a19a1e9a-e5a8-4e1c-93e4-926c5638e5e5)
