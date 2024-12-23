@@ -26,7 +26,7 @@ A mobile application that records classroom attendance using camera scanning.
 ### 3. Purpose or Objective
 The objective of the AttendEase application is to automate the students' attendance using high-end face identification. Integrating a mobile device camera with the state-of-the-art machine learning technology, the app identifies the students with precision and marks their attendance in just the wink of an eye- with no human intervention.
 
-## Objectives:
+### Objectives:
 
 To provide an effective and speedier attendance solution to reduce human error and save precious class time.
 Accurate recordkeeping through real-time attendance data update, which is accessible by instructors and students.
@@ -42,12 +42,12 @@ The target users for AttendEase are students and instructors within institutions
 
 **iii. Administrators:** Institutions can look through the general trend of attendance data in compiling reports or assessments of student involvement to make better decisions. Application target: The application will focus on higher learning institutions where the number of students attending classes is huge and where the use of face recognition technologies reduces a lot of administrative work.
 
-###5. Target Platform
+### 5. Target Platform
 This will be developed on both Android and iOS using Flutter to ensure maximum accessibility on most-used devices.
 
 With more mobile users growing each day, the cross-platform nature of an app ensures its availability on both Android and iOS. The idea is to go mobile-first, making this experience truly intuitive and user-friendly without additional hardware or complex installations.
 
-###6. Features and Functionalities
+### 6. Features and Functionalities
 Camera Attendance Marking: This important feature will provide the instructors with the facility of scanning the classroom or students with their mobile device camera. The application automatically identifies faces and marks the attendance.
 
 Real-Time Attendance Update: Following a scan of the classroom, attendance would automatically get updated on real-time cloud-based software, accessible to instructors and students alike.
