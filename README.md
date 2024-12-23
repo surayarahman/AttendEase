@@ -24,46 +24,37 @@ A mobile application that records classroom attendance using camera scanning.
    With technology increasingly being integrated into education, attendance-tracking methods have become inefficient and obsolete. In this educational evolution, there is an urge for quicker, more accurate, and reliable ways of monitoring attendance. Moreover, in unforeseen circumstances, such as COVID-19, where social distancing and hybrid learning have become norms, a technological solution in tracking attendance is not beneficial but highly essential.
 
 ### 3. Purpose or Objective
-The purpose of AttendEase is to automate student attendance through advanced facial recognition technology. By utilizing mobile device cameras and cutting-edge machine learning, the application accurately identifies students and marks their attendance in real time, eliminating the need for physical intervention.
+The objective of the AttendEase application is to automate the students' attendance using high-end face identification. Integrating a mobile device camera with the state-of-the-art machine learning technology, the app identifies the students with precision and marks their attendance in just the wink of an eye- with no human intervention.
 
-**Objectives:**
+## Objectives:
 
-- To offer a quick and efficient attendance solution that minimizes human error and saves valuable class time.
-- To ensure data accuracy with real-time updates to attendance records accessible to both instructors and students.
-- To enhance security and student engagement through advanced facial recognition.
-
-By automating attendance tracking, AttendEase aims to improve the educational experience by streamlining the process and removing the challenges of manual checks.
+To provide an effective and speedier attendance solution to reduce human error and save precious class time.
+Accurate recordkeeping through real-time attendance data update, which is accessible by instructors and students.
+To introduce higher-level facial recognition to improve security and enhance student engagement in learning.
+Through automation of attendance tracking, AttendEase contributes to an enhanced educational experience in making this process seamless and taking away the headache that may arise with manual checks.
 
 ### 4. Target User
-The target users for AttendEase is both students and instructors in academic institutions, specifically:
+The target users for AttendEase are students and instructors within institutions of learning, specifically:
 
-**i. Teachers/Professors/Instructors:**
-They can use the app for automated attendance marking during lectures, ensuring accurate and secure data without manual checks.
+**i. Instructors/Teachers/Professors:** They will use the application for automatic attendance marking in lectures and ensure accuracy with secured data, with no manual checks.
 
-**ii. Students:** 
-They will benefit from the automated process, receiving instant feedback on their attendance status and reducing the risk of unjustified absences.
+**ii. Students:** The automated process will definitely benefit the students, providing them with immediate feedback regarding their attendance status and reducing the chances of unjustified absences.
 
-**iii. Administrators:** 
-Educational institutions can track overall attendance data and trends to provide reports or assessments regarding student participation, leading to better decision-making.
-The app’s primary focus will be on higher education classrooms with a considerable number of students, where face recognition technology will significantly reduce the administrative worload.
+**iii. Administrators:** Institutions can look through the general trend of attendance data in compiling reports or assessments of student involvement to make better decisions. Application target: The application will focus on higher learning institutions where the number of students attending classes is huge and where the use of face recognition technologies reduces a lot of administrative work.
 
-### 5. Preferred Platform
-The app will be developed for both Android and iOS using Flutter to ensure wide accessibility across the most commonly used devices.
+###5. Target Platform
+This will be developed on both Android and iOS using Flutter to ensure maximum accessibility on most-used devices.
 
-With the growing number of mobile users, a cross-platform app guarantees availability on both Android and iOS. This mobile-first approach will deliver an intuitive, user-friendly experience without the need for extra hardware or complex installations.
+With more mobile users growing each day, the cross-platform nature of an app ensures its availability on both Android and iOS. The idea is to go mobile-first, making this experience truly intuitive and user-friendly without additional hardware or complex installations.
 
-### 6. Features and Functionalities
-**Camera-based Attendance Marking:**
-The main feature will allow instructors to scan the classroom or students using their mobile device's camera. The app will recognize faces and mark the attendance automatically.
+###6. Features and Functionalities
+Camera Attendance Marking: This important feature will provide the instructors with the facility of scanning the classroom or students with their mobile device camera. The application automatically identifies faces and marks the attendance.
 
-**Real-time Attendance Update:**
-After scanning the classroom, attendance will be updated in real-time to a cloud-based system, which can be accessed by both instructors and students.
+Real-Time Attendance Update: Following a scan of the classroom, attendance would automatically get updated on real-time cloud-based software, accessible to instructors and students alike.
 
-**Classroom Management Dashboard:**
-Instructors will be able to manage their classes by viewing the list of enrolled students, attendance records, and trends over time.
+Classroom Management Dashboard: View the list of enrolled students, their attendance records, and trends over time as instructors manage their classes.
 
-**Security Features:**
-A password-protected system for instructor login to ensure that only authorized users have access to sensitive data.
+Security Features: The system is password-protected for instructor login so that not just anybody can have access to sensitive data.
 
 ## Understanding the need for AttendEase
 Attendease mobile application is needed because:
