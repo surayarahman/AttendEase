@@ -19,9 +19,9 @@ Midgardians
 A mobile application that records classroom attendance using camera scanning.
 
 ### 2. Background of the Problem
-- Tracking student attendance in educational institutions has traditionally been a manual process, often leading to inaccuracies, especially in large classrooms. Instructors struggle to maintain accurate records, and methods like attendance sheets are prone to errors, misplacements, and fraud. These practices waste valuable class time and are vulnerable to human error.
+   Traditionally, attendance tracking has been in the realm of manual operation in educational institutions. Accurate attendance is difficult to keep for instructors, and attendance sheets are very liable to errors, misplacement, and fraud. Many of these methods squander precious class time and often fall victim to human error.
 
-- As technology increasingly integrates into education, traditional attendance tracking methods have become inefficient and outdated. The need for faster, more accurate, and reliable attendance monitoring is critical as educational institutions evolve. Moreover, in unforeseen circumstances like the COVID-19 pandemic, where social distancing and hybrid learning are necessary, a technological solution for tracking attendance is not just beneficial but essential.
+   With technology increasingly being integrated into education, attendance-tracking methods have become inefficient and obsolete. In this educational evolution, there is an urge for quicker, more accurate, and reliable ways of monitoring attendance. Moreover, in unforeseen circumstances, such as COVID-19, where social distancing and hybrid learning have become norms, a technological solution in tracking attendance is not beneficial but highly essential.
 
 ### 3. Purpose or Objective
 The purpose of AttendEase is to automate student attendance through advanced facial recognition technology. By utilizing mobile device cameras and cutting-edge machine learning, the application accurately identifies students and marks their attendance in real time, eliminating the need for physical intervention.
@@ -112,3 +112,5 @@ AttendEase fits into the trend of digitization of classrooms and modernizing edu
 Kumara, P. M., Tahmasebi, M., & Sethu, D. (2021). Automatic attendance recording system using facial recognition. Malaysian Journal of Science, Advanced Technology, 1(2), 68–71. https://mjsat.com.my/index.php/mjsat/article/view/12
 
 Gaffar, A. (2024). The facial recognition technology in academic attendance. International Journal of Technology and Innovative Management, 1(1), 103–120. https://journals.gaftim.com/index.php/ijtim/article/view/363 
+
+Attendance Radar. (2022). Student attendance tracking - Attendance Radar - Codific. Retrieved from https://codific.com/student-attendance-tracking-attendance-radar/
