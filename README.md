@@ -108,7 +108,7 @@ AttendEase fits into the trend of digitization of classrooms and modernizing edu
 ## GANTT CHART
 ![AttendEase Gantt Chart-1](https://github.com/user-attachments/assets/d3b1cdea-28f3-4ceb-a47a-f6b6e0634c50)
 
-##REFERENCES
+## REFERENCES
 Kumara, P. M., Tahmasebi, M., & Sethu, D. (2021). Automatic attendance recording system using facial recognition. Malaysian Journal of Science, Advanced Technology, 1(2), 68–71. https://mjsat.com.my/index.php/mjsat/article/view/12
 
 Gaffar, A. (2024). The facial recognition technology in academic attendance. International Journal of Technology and Innovative Management, 1(1), 103–120. https://journals.gaftim.com/index.php/ijtim/article/view/363 
